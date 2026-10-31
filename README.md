@@ -102,20 +102,6 @@ An AI-powered service marketplace and business operations platform connecting cu
 
 **Tech Stack:** React, TypeScript, Node.js, Express, MongoDB and AI Integration.
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jrwjamarsiriwardhane-svg&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrwjamarsiriwardhane-svg&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jrwjamarsiriwardhane-svg&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🎯 My Learning Journey
 
