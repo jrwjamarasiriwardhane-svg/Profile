@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jananga Ruchiru!
+#  Hey, I'm Jananga Ruchiru!
 
 ### 🤖 AI & Machine Learning | 🔐 Cybersecurity | 🎮 Game Development | 💻 Software Engineering
 
@@ -66,7 +66,7 @@ I'm a Computer Science undergraduate passionate about technology, innovation, an
 
 **Exploring:** Game Development, Game AI, Intelligent NPCs, 3D Modeling, Animation and Digital Design.
 
-### 🌐 Web & Backend Development
+### Web & Backend Development 🌐
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -86,7 +86,7 @@ I'm a Computer Science undergraduate passionate about technology, innovation, an
 
 ---
 
-## 🚀 Featured Project
+## Featured Project 🚀
 
 ### 🤖 AIBOS – AI Business Operating System
 
