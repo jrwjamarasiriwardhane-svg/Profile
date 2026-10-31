@@ -1,31 +1,28 @@
-# Profile
-READ ME
-# 👋 Hey there! I'm a Computer Science Student
+# 👋 Hey there! I'm Jananga Ruchiru
 
 ### 🤖 AI & Machine Learning | 🔐 Cybersecurity | 💻 Software Development
 
-I'm a Computer Science undergraduate passionate about exploring technology, building intelligent applications, and understanding how to secure digital systems.
+Computer Science Undergraduate passionate about building intelligent applications and exploring digital security.
 
 ### 🧑‍💻 About Me
 
 - 🎓 Computer Science Undergraduate
 - 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🧠 Learning Data Science and Deep Learning
-- 🔐 Exploring Cybersecurity & Ethical Hacking
-- 💻 Building Full-Stack Web Applications
-- 🚀 Working on real-world projects and improving my problem-solving skills
-- 🌱 Always learning something new!
+- 🔐 Cybersecurity & Ethical Hacking Enthusiast
+- 🐍 Python and Java Developer
+- 🌐 Full-Stack Web Development
+- 🚀 Building real-world projects and learning every day!
 
 ### 🚀 Currently Working On
 
-- 🤖 **AIBOS** – AI-powered Business Operating System
-- 🧠 Machine Learning projects using Python
-- 🔐 Learning Linux, Networking and Ethical Hacking
-- 💻 Improving my Java and Full-Stack Development skills
+- AI-powered Business Operating System (AIBOS)
+- Machine Learning projects with Python
+- Exploring Linux, Networking and Ethical Hacking
+- Improving Data Structures & Algorithms
 
-### 🛠️ Languages & Technologies
+### 🛠️ Tech Stack
 
-**Programming Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -51,25 +48,25 @@ I'm a Computer Science undergraduate passionate about exploring technology, buil
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrwjamarsiriwardhane-svg&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrwjamarsiriwardhane-svg&layout=compact&theme=tokyonight)
 
-### 🎯 My Interests
+### 🎯 Interests
 
 - Artificial Intelligence & Generative AI
 - Machine Learning & Deep Learning
 - Cybersecurity & Ethical Hacking
 - Data Science
-- Software Engineering
 - Open Source Development
 
-### 💡 My Philosophy
+### 💡 Developer Mindset
 
 "Learn continuously, build fearlessly, and never stop exploring."
 
 ⭐ Thanks for visiting my profile!
+
+[![GitHub](https://img.shields.io/badge/GitHub-jrwjamarsiriwardhane--svg-181717?style=for-the-badge&logo=github)](https://github.com/jrwjamarsiriwardhane-svg)
